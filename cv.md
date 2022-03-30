@@ -26,8 +26,6 @@ ___
 
 No experience as a programmer  :(
 ___
-Образование (включая пройденные курсы и тренинги)
-___
 #### Language:
 English(basic) not tested yet 
 ___
