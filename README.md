@@ -1,2 +1,1 @@
-# rsschool-cv
-myCV
+https://shmykovandrey.github.io/rsschool-cv/cv
